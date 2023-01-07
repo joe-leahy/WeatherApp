@@ -1,3 +1,8 @@
+
+![Alt text](/appPreview.png?raw=true "App Preview")
+
+
+
 # Getting Started with Weather App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
